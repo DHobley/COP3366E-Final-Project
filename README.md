@@ -11,5 +11,5 @@
 3. Specialized Classes
     - **DanceParticipant**: Includes 'DanceStyle', 'PreferredStageSize', 'ChoreographerInfo'.
     - **MusicParticipation** (optional): Will include 'InstrumentType', 'SetupTimeRequired'.
-    - **ArtParticipation**: Type of art displayed ("oil painting", "sculpture", "digital media").
-    - **CulinaryParticipation**: The cultural origin or style of the food ("Caribbean street food" and "Italian fusion")
+    - **ArtParticipation**: Type of art displayed ("oil painting", "sculpture", "digital media"). The required physical space for displaying the artwork.
+    - **CulinaryParticipation**: The cultural origin or style of the food ("Caribbean street food" and "Italian fusion"). Approximate number of sample servings                available for attendees to try.
