@@ -1,7 +1,7 @@
 public class Participant
 {
     public string Name { get; set; }
-    public string CategoryCode { get; set; }
+    public string CategoryCode { get; set; } // M, D, A, C, S
     public string ContactInfo { get; set; }
     public double FeePaid { get; set; }
     public bool IsValidRegistration { get; set; }
