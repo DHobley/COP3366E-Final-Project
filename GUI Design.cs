@@ -1,5 +1,5 @@
 ComboBox cmbCategory = new ComboBox();
-cmbCategory.Items.AddRange(new string[] { "M - Music", "D - Dance", "A - Art", "C - Culinary", "S - Sample Serving Sizes" });
+cmbCategory.Items.AddRange(new string[] { "M - Music", "D - Dance", "A - Art", "C - Culinary", "S - SampleServingSizes" });
 
 Button btnAdd = new Button();
 btnAdd.Text = "Add Participant";
